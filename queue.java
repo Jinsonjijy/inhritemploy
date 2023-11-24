@@ -87,7 +87,8 @@ interface operation{
                         case 3:
                        obj. display();
                         break;
-
+                        case 4:
+                            break;
 
                     }
 
